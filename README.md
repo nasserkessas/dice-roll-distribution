@@ -16,6 +16,7 @@ src="./docs/dice_plot 4d,4s,20000i.png" width="30%">
 2 6-sixed dice, 100000 times&ensp;&emsp;&emsp;&emsp;&emsp;3 5-sixed dice, 50000 times&ensp;&emsp;&emsp;&emsp;&emsp;4 4-sixed dice, 20000 times
 
 </div>
+
 ## Options
 
 - Number of dice - `die_count`
