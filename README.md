@@ -8,26 +8,14 @@ A Jupyter Notebook that randomly generates values for `die_count` dice with `die
 
 ### Examples
 
-<div style="display: flex; justify-content: space-evenly">
+<div align="center">
+<img src="./docs/dice_plot 2d,6s,100000i.png" width="30%">&emsp;<img 
+src="./docs/dice_plot 3d,5s,50000i.png" width="30%">&emsp;<img
+src="./docs/dice_plot 4d,4s,20000i.png" width="30%">
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./docs/dice_plot 2d,6s,100000i.png">
-    <caption >2 6-sixed dice, 100000 times</caption>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./docs/dice_plot 3d,5s,50000i.png">
-    <caption >3 5-sixed dice, 50000 times</caption>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./docs/dice_plot 4d,4s,20000i.png">
-    <caption >4 4-sixed dice, 20000 times</caption>
-</div>
+2 6-sixed dice, 100000 times&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3 5-sixed dice, 50000 times&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4 4-sixed dice, 20000 times
 
 </div>
-
-
 ## Options
 
 - Number of dice - `die_count`
@@ -37,7 +25,8 @@ A Jupyter Notebook that randomly generates values for `die_count` dice with `die
 # Todo
 
 - Make graph height adapt to largest value rather than `iterations/(die_sides/die_count*1.5)`
-- Adjust graph and bar width for larger `die_count` and `die_sides` values 
+- Adjust graph and bar width for larger `die_count` and `die_sides` values
+- Make y-axis percentages
 
 
 
