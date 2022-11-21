@@ -13,7 +13,7 @@ A Jupyter Notebook that randomly generates values for `die_count` dice with `die
 src="./docs/dice_plot 3d,5s,50000i.png" width="30%">&emsp;<img
 src="./docs/dice_plot 4d,4s,20000i.png" width="30%">
 
-2 6-sixed dice, 100000 times&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3 5-sixed dice, 50000 times&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4 4-sixed dice, 20000 times
+2 6-sixed dice, 100000 times&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3 5-sixed dice, 50000 times&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4 4-sixed dice, 20000 times
 
 </div>
 ## Options
